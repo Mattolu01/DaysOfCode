@@ -1,0 +1,19 @@
+body{
+    background-color: paleturquoise;
+}
+
+h4{
+    background-color: blueviolet;
+    text-align: center;
+}
+h3{
+    background-color: lightseagreen;
+    color: white;
+    text-align: center;
+}
+strong{
+    color: blueviolet;
+}
+span{
+    color: darkblue;
+}
