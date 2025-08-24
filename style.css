@@ -1,8 +1,42 @@
-body{
+body {
     background-color: paleturquoise;
 }
 
-h4{
+.img1 {
+    border-left: 20px solid black;
+    border-color: black;
+    width: 250px;
+    margin-left: 2%;
+    margin-right: 1.5%;
+    margin-top: 50px;
+}
+
+.img2 {
+    width: 750px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-right: 2%;
+}
+
+.img3 {
+    border-bottom-left-radius: 5%;
+    border-top-left-radius: 5%;
+    margin-top: 2%;
+}
+
+.img4 {
+    border-left: 20px solid black;
+    width: 250px;
+    margin-left: 2%;
+    margin-right: 1.5%;
+    margin-top: 50px;
+    transform: scaleX(-1);
+    border-bottom: 5px solid black;
+}
+
+
+
+/* h4{
     background-color: blueviolet;
     text-align: center;
 }
@@ -16,4 +50,4 @@ strong{
 }
 span{
     color: darkblue;
-}
+} */
