@@ -18,3 +18,19 @@ h3 {
     background-color: slategray;
 
 }
+
+h4 {
+
+    border-radius: 20px;
+    text-align: center;
+    border: 1px solid;
+    border-color: blanchedalmond;
+    background: slategray;
+    color: snow;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 40%;
+
+}
