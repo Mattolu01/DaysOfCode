@@ -8,8 +8,8 @@ div {
     border-radius: 10px;
     width: 15%;
     text-align: left;
-    margin-left: 50%;
-    margin: auto;
+    margin-left: 10%;
+    /* margin: auto; v  */
     margin-top: 15%;
 }
 
